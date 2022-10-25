@@ -2453,7 +2453,7 @@ a {
 }
 @media (min-width: 992px) {
   .cid-tbNwiehf0W .navbar.collapsed.opened:not(.navbar-short) .navbar-collapse {
-    max-height: calc(98.5vh - 6.8rem);
+    max-height: calc(98.5vh - 5.5rem);
   }
 }
 .cid-tbNwiehf0W .navbar.collapsed .dropdown-menu .dropdown-submenu {
