@@ -74,7 +74,7 @@
       "enabled": true
     },
     "favicon": "@PROJECT_PATH@/assets/images/favicon.ico",
-    "mbrsiteDomain": "yzjmzdjjw9",
+    "mbrsiteDomain": "51idgxagj2",
     "cssOptimize": true,
     "lazyLoad": true,
     "robotsSwitcher": false,
@@ -90,14 +90,14 @@
       "underlineLink": true,
       "opacity": "99",
       "opacityOverlay": "80",
-      "text": "Size en iyi deneyimi sunmak için çerezleri kullanıyoruz. Bizi okuyun <a href='https://hafsa1319.github.io/allreview_/datenschutz.html#content02-17'>Cookie-Richtlinie</a>.",
+      "text": "Size en iyi deneyimi sunmak için çerezleri kullanıyoruz. Bizi okuyun <a href='https://hafsa1319.github.io/allreview_/datenschutz.html#content02-17'>Çerez Politikası</a>.",
       "textButton": "Tümünü Kabul Et"
     },
     "gdpr": {
       "colorText": "#777777",
       "colorLink": "#1a1a1a",
       "underlineLink": false,
-      "text": "Eğer devam ederseniz, kabul etmiş olursunuz. <a href='https://hafsa1319.github.io/allreview_/impressum.html#content02-1a'>Bedingungen der Dienstleistung</a> ve <a href='https://hafsa1319.github.io/allreview_/datenschutz.html#content02-17'>Datenschutzbestimmungen</a>."
+      "text": "Eğer devam ederseniz, kabul etmiş olursunuz. <a href='https://hafsa1319.github.io/allreview_/impressum.html#content02-1a'>Hizmet koşulları</a> ve <a href='https://hafsa1319.github.io/allreview_/datenschutz.html#content02-17'>Gizlilik Politikası</a>."
     },
     "pwa-switcher": true,
     "PWA": {
